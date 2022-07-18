@@ -1,0 +1,15 @@
+Package: cryptobal
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Rabbit Company LLC
+Installed-Size: 9775
+Depends: libwebkit2gtk-4.0-37, libgtk-3-0
+Filename: pool/main/cryptobal_1.0.0_amd64.deb
+Size: 4229038
+MD5sum: 53ca7ddeee35ed3376ad40c5e0dd8fc2
+SHA1: 4a08965b41e5dcc3d1991e14191332392e7f6c98
+SHA256: 14cf52bdc4e47d3ddcbbd6102c2b3389f2bfed5be7e449ccd8b9cb3737960726
+Priority: optional
+Description: Monitor your Crypto balance with style.
+ Monitor your Crypto balance with style.
+
