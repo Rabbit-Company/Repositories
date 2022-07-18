@@ -1,0 +1,6 @@
+[rabbit-store]
+name=Rabbit Store
+baseurl=https://repo.rabbitstore.net/rpm
+enabled=1
+gpgcheck=1
+gpgkey=https://repo.rabbitstore.net/pgp-key.public
