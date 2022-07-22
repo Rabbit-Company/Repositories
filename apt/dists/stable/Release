@@ -6,13 +6,13 @@ Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
 Description: Rabbit Company software repository
-Date: Mon, 18 Jul 2022 15:15:06 +0000
+Date: Fri, 22 Jul 2022 14:44:59 +0000
 MD5Sum:
- ab373f19b760ba0bc4e822c8d523782f 483 main/binary-amd64/Packages
- 5d0de6f1465fee30d9be1cc55497aaa7 349 main/binary-amd64/Packages.gz
+ d286f13746d718b6e0b62b563b93da2d 483 main/binary-amd64/Packages
+ 77b694320475c5958b4035212101e731 350 main/binary-amd64/Packages.gz
 SHA1:
- 7880ffe9d1fdacee14decb94ed5c8cf2ce1008a3 483 main/binary-amd64/Packages
- b0abc92905c9804445b97ce5852097e75352f3c4 349 main/binary-amd64/Packages.gz
+ fbce1ce5510ae1f663dc349916ead3058bdc1bd1 483 main/binary-amd64/Packages
+ fd8abda735642500a19af62d5f6059064d4f25c4 350 main/binary-amd64/Packages.gz
 SHA256:
- ebce2dbe5da065000cb1306b8ea5543c6cfad1558512f0e8f24f9a709aa76ea9 483 main/binary-amd64/Packages
- b5dc36bb0305f4d7f28ebafef81d66f8f122a015c3bfd443d0627a390ad2574b 349 main/binary-amd64/Packages.gz
+ 3d4802b5a1537219a6a6a78d491835d6759a47a5e97f1edc4fb5eadc623bbb9b 483 main/binary-amd64/Packages
+ e2d618ff621dab82e5a50682c4a0e9165eeb4f9d9895921074d446d21d257744 350 main/binary-amd64/Packages.gz

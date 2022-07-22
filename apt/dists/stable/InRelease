@@ -9,30 +9,30 @@ Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
 Description: Rabbit Company software repository
-Date: Mon, 18 Jul 2022 15:15:06 +0000
+Date: Fri, 22 Jul 2022 14:44:59 +0000
 MD5Sum:
- ab373f19b760ba0bc4e822c8d523782f 483 main/binary-amd64/Packages
- 5d0de6f1465fee30d9be1cc55497aaa7 349 main/binary-amd64/Packages.gz
+ d286f13746d718b6e0b62b563b93da2d 483 main/binary-amd64/Packages
+ 77b694320475c5958b4035212101e731 350 main/binary-amd64/Packages.gz
 SHA1:
- 7880ffe9d1fdacee14decb94ed5c8cf2ce1008a3 483 main/binary-amd64/Packages
- b0abc92905c9804445b97ce5852097e75352f3c4 349 main/binary-amd64/Packages.gz
+ fbce1ce5510ae1f663dc349916ead3058bdc1bd1 483 main/binary-amd64/Packages
+ fd8abda735642500a19af62d5f6059064d4f25c4 350 main/binary-amd64/Packages.gz
 SHA256:
- ebce2dbe5da065000cb1306b8ea5543c6cfad1558512f0e8f24f9a709aa76ea9 483 main/binary-amd64/Packages
- b5dc36bb0305f4d7f28ebafef81d66f8f122a015c3bfd443d0627a390ad2574b 349 main/binary-amd64/Packages.gz
+ 3d4802b5a1537219a6a6a78d491835d6759a47a5e97f1edc4fb5eadc623bbb9b 483 main/binary-amd64/Packages
+ e2d618ff621dab82e5a50682c4a0e9165eeb4f9d9895921074d446d21d257744 350 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJMBAEBCAA2FiEEGR1tsfFxeSjZUTZ3lsnN002PL6wFAmLVeRgYHGluZm9AcmFi
-Yml0LWNvbXBhbnkuY29tAAoJEJbJzdNNjy+szP0P/iXi1n0ZTTjmkyvqZ/wXaeE9
-Aq2JDDpEyXwq2zQnt4gWklGOoDm19NHUueNLfjZkJAFxMOThmF1HUj9tnLJDlXD6
-6MTFVuSS/EO05XqumaWOWn2fMkkKUe/Z7q+4KjCcpltjgbczJRFW+GNAQAApYYXG
-XcYNAF5UbSSGkO1za7NYC3bCuY2xTkqEd/E3byKbZ0ex1QOyovEUd0F9ItXmLEKu
-FjchhsqfbsJ0FpbQ4zpQqKPsHd3IuFvLmwHAgsTTa+6exP6+Ls7pYWvWYU1uKM0i
-b18xazZtHCL+DCAIITB3AIsik7yfSEbycOapFQBKQfCSQfd9he7coob28vHE7TZ6
-hxoN861LSP3ZP+TrPwHtHhy9/niKVSBy9DrJMtf/I5WJzEGnve4R047/G7IJUHdQ
-BiE5u7IKFwOukM3OlNtwseAQM2ONodbddWQELJMhAnB0jH2s9qN/5kxbxjVtjloN
-kUCT3YnAkDlNfQlt1RXfI4LFsg/7gKAI1+/PwSy2V3nlB/y81FqzTtf6Y7pJTKOv
-i8Us8E3KWwO8nzM65qTq0IkR7dL6c2Wz8gNzL+gpvC9mcNEYXXwujjrjpSV7/96k
-dBvYRfFHf2gKkqi3LZA6//mjdkiRX/lTOwg/jGA9aVUb6AFHvB0gJDRP2wo6yD5y
-7kS4ATLzaOiVsQ9NoGGs
-=aFC4
+iQJMBAEBCAA2FiEEGR1tsfFxeSjZUTZ3lsnN002PL6wFAmLat/AYHGluZm9AcmFi
+Yml0LWNvbXBhbnkuY29tAAoJEJbJzdNNjy+sogoQAIF0bF+qxth3KeyOavLp7ljr
+gm3xNzIL3TWQPxDOpZUXlz9i7HYPJew3leBESL94cGtR/0FrrPexDXnKoq08McG5
+CGs8eINFv47N9b+xx5ohrl/vzuyVdGmjIDZ34j6dsry3mkhv8829pdlTAIuMQs+m
+/VDVRuwesbbFFHVhl/AxEeKh5ftclhHD5S09fFzCZJlRajfdPf6n0cwkKMDbOjSi
+ltn0yyE8836ilaWYeTTfqKmpzsvIuKSPzj6oMOJ4aTWk44PswrR47tQOoK67ITSg
+deJyirz/rTX4GRlVo5JX+S/Yd7FNNiDLNjbHBsmL1v8MJnKEW9DCIIwAJw+FUpWL
+buMtsPVfYqTGBY47ihvckfxHfl4zxjEroqpepzypUcSGUCmRMI2wowt0sVToL6jo
+vL4obG4Y0G5lI0SjZPn1VDpVqboCP+VFZPnUpbKUy7F88k/mTACnuyIFOzgD7Aiu
+xaEBYLTJBP4XLiAPNKQdeYjAB6RrsiqFgvmm6EWC1+wa4UtNGgFxlc/vzp4vA09T
+LUwORP+b6C3XxD0KTpArTlQlpAGaN80WcnAt72kAR//B6mgtpbxIPwg+WdaFxmxK
+X0vmytWQKHc1mX00g/3jqNVNO0Zh/1oc1uAGAV8tpaG2bOjsDSVGcqj9Pf8GNwZj
+xGjJ6xzzAHqIKIu1/luv
+=sTk4
 -----END PGP SIGNATURE-----
